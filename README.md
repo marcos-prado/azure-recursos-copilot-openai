@@ -1,0 +1,1 @@
+# azure-recursos-copilot-openai
